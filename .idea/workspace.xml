@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="153a4876-cf60-4405-a2d1-463d1b59b7c7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/simpleparadox/listycity/CityList.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/simpleparadox/listycity/CityList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/test/java/com/example/simpleparadox/listycity/CityListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/example/simpleparadox/listycity/CityListTest.java" afterDir="false" />
     </list>
@@ -28,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/test/java/com/example/simpleparadox/listycity/CityListTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+            <state relative-caret-position="1395">
+              <caret line="98" column="43" selection-start-line="98" selection-start-column="43" selection-end-line="98" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -37,8 +43,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/simpleparadox/listycity/CityList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="80" selection-start-line="80" selection-end-line="80" />
+            <state relative-caret-position="255">
+              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+              <folding>
+                <element signature="e#1916#1917#0" expanded="true" />
+                <element signature="e#1949#1950#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -112,7 +122,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="27" />
     <option name="width" value="1920" />
     <option name="height" value="702" />
@@ -155,6 +165,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -170,7 +181,40 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Android JUnit.CityListTest">
+    <configuration name="CityListTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.simpleparadox.listycity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.simpleparadox.listycity" />
+      <option name="MAIN_CLASS_NAME" value="com.example.simpleparadox.listycity.CityListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CityListTest.testGetFirstCityName" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.simpleparadox.listycity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.simpleparadox.listycity" />
+      <option name="MAIN_CLASS_NAME" value="com.example.simpleparadox.listycity.CityListTest" />
+      <option name="METHOD_NAME" value="testGetFirstCityName" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -231,6 +275,12 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.CityListTest" />
+        <item itemvalue="Android JUnit.CityListTest.testGetFirstCityName" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -245,11 +295,31 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="CityListTest_testGetFirstCityName - 2019.10.29 at 17h 53m 44s.xml">
+      <configuration name="CityListTest.testGetFirstCityName" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="CityListTest - 2019.10.29 at 17h 53m 55s.xml">
+      <configuration name="CityListTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="CityListTest - 2019.10.29 at 17h 58m 09s.xml">
+      <configuration name="CityListTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="CityListTest - 2019.10.29 at 17h 58m 12s.xml">
+      <configuration name="CityListTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="CityListTest - 2019.10.29 at 17h 58m 23s.xml">
+      <configuration name="CityListTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="CityListTest - 2019.10.29 at 17h 58m 27s.xml">
+      <configuration name="CityListTest" configurationId="AndroidJUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="25" width="1922" height="1056" extended-state="7" />
+    <frame x="-1" y="25" width="1922" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32924226" />
+      <window_info content_ui="combo" id="Project" visible="true" weight="0.32924226" />
       <window_info id="Structure" side_tool="true" />
       <window_info id="Build Variants" side_tool="true" />
       <window_info id="Image Layers" />
@@ -258,13 +328,15 @@
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Run" visible="true" weight="0.3290461" />
       <window_info anchor="bottom" id="Logcat" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" weight="0.3290461" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" visible="true" weight="0.20471597" />
+      <window_info anchor="bottom" id="Build" weight="0.20471597" />
       <window_info anchor="right" id="Device File Explorer" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Gradle" />
@@ -275,15 +347,19 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/simpleparadox/listycity/CityList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="80" selection-start-line="80" selection-end-line="80" />
+        <state relative-caret-position="255">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+          <folding>
+            <element signature="e#1916#1917#0" expanded="true" />
+            <element signature="e#1949#1950#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/test/java/com/example/simpleparadox/listycity/CityListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+        <state relative-caret-position="1395">
+          <caret line="98" column="43" selection-start-line="98" selection-start-column="43" selection-end-line="98" selection-end-column="43" />
         </state>
       </provider>
     </entry>
